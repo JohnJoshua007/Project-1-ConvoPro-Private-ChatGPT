@@ -1,4 +1,4 @@
 MONGO_DB_URL="mongodb://localhost:27017/"
 MONGO_DB_NAME="chat_data"
-GOOGLE_API_KEY=AQ.Ab8RN6K48Ddih1arvC03GCEdzSnF-nGQkU0FZ897t4F4qKZ62g
+GOOGLE_API_KEY=
 GEMINI_MODELS="gemini-3.6-flash,gemini-3.7-flash,gemini-3.5-flash"
