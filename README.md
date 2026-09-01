@@ -20,6 +20,7 @@ Originally built with Ollama, this project was successfully migrated to Gemini f
 ☁️ No local Docker required – fully cloud‑based with Gemini API
 
 
+
 🧪 Usage
 
 Select a model from the dropdown.
