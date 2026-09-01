@@ -19,3 +19,14 @@ Originally built with Ollama, this project was successfully migrated to Gemini f
 
 ☁️ No local Docker required – fully cloud‑based with Gemini API
 
+
+🧪 Usage
+
+Select a model from the dropdown.
+
+Start chatting – your messages and the AI’s responses are saved automatically.
+
+Switch conversations via the sidebar.
+
+Start a new chat with the “New Chat” button.
+
